@@ -1,2 +1,2 @@
-Sepal_Length,Sepal_Width,Petal_Length,Petal_Width,Species
-5.1,3.5,1.4,0.2,setosa
+Sepal_Length,Petal_Length,
+5.1,1.4
